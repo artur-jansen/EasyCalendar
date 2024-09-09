@@ -1,0 +1,21 @@
+.ul-lista{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 12px 0px;
+    margin: 0;
+}
+
+.lista-item{
+    width: 300PX;
+    padding: 12px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-botoes{
+    background-color: rgb(207, 206, 206);
+    padding: 6px;
+    border-radius: 24px;
+}
